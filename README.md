@@ -9,12 +9,8 @@ This is an application that allows users to input and store their passwords.
 [View here]https://ardern.github.io/passlock/
 ## Project objectives
 The project covers the following areas of Web and Software Development:
-Understanding the overal structure of web pages
-Using HTML Tags
-Creating classes and IDs
-Styling web pages using CSS
-Linking HTML and css files
-Using Python
+Understanding the overal structure of web pages and routing
+Structuring Python apps using the Flask framework
 
 ## Technologies Used
 HTML
@@ -23,10 +19,12 @@ Python
 ### Requirements for Deployment
 ​
 * A computer device
-​
 * Internet connection
-
+* Code editor
+* Python installation
 * A web browser
+### How to Deploy
+Run the run.py file using the command "python3 run.py" and follow the prompts
 ### Known Bugs
 The application has no known bugs. Any emerging bugs will be eliminated during the iteration process
 ## Authors Info
